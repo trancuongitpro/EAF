@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:HRM_SEM3_PVHung_T2009AContext"
+    }
+  }
+}
